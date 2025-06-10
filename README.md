@@ -39,6 +39,8 @@ pip install -r requirements.txt
 # 4. Run the Streamlit app
 streamlit run flight_tracker_web.py
 ```
+---
+
 ## 📦 Deployment (Streamlit Cloud)
 1. Visit https://streamlit.io/cloud  
 2. Sign in with GitHub  
